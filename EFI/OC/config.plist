@@ -16,14 +16,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Improves Radeon 5700 XT Performance</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-RX 5700 XT-Version 1.0.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Needed for the USBWakeFixup.kext to fix the issue, that it takes two keystrikes to wakeup the display, if you wakeup your PC with the keyboard.</string>
 				<key>Enabled</key>
 				<true/>
