@@ -8,14 +8,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Improves SMBus Support</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-SBUS-MCHC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Needed for the USBWakeFixup.kext to fix the issue, that it takes two keystrikes to wakeup the display, if you wakeup your PC with the keyboard.</string>
 				<key>Enabled</key>
 				<true/>
@@ -40,14 +32,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Disables the CNVi Slot where the onboard m.2 Intel Wifi 6 card sits</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-Disable-CNVW.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>USB-port configuration for the Vision D</string>
 				<key>Enabled</key>
 				<true/>
@@ -64,35 +48,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>USB-port configuration for the Vision D Alternative 1</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-UIAC-USB-Z490-VISIOND-ALTERNATIVE-1.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>USB-port configuration for the Vision D Alternative 2</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-UIAC-USB-Z490-VISIOND-ALTERNATIVE-2.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>USB-port configuration for the Vision D Alternative 3</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
 				<string>SSDT-UIAC-USB-Z490-VISIOND-ALTERNATIVE-3.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Enables Thunderbolt 3 Hot Plug</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-TB3HP.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
