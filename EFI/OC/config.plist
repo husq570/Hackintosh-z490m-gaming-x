@@ -212,7 +212,7 @@
 				<key>device-id</key>
 				<data>cKEAAA==</data>
 				<key>layout-id</key>
-				<data>BwAAAA==</data>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -809,7 +809,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera -wegnoegpu alcid=2 </string>
+				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera -wegnoegpu  </string>
 				<key>run-efi-updater</key>
 				<string>NO</string>
 				<key>csr-active-config</key>
