@@ -25,6 +25,6 @@ Opencore 0.6.1
 # Working:
 
 SOUND: [Have problems with Front-panel connection if headphones are before booting then pront panel is working otherwise not]
-Graphics: [Fully supported]
+Graphics: [Shows Fully supported but CS:GO fps very unstable]
 LAN: [Working as it should]
 BOOT: [Sometimes stuck at boot do not know the reason yet]
