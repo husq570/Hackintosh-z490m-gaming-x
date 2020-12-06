@@ -35,5 +35,5 @@ Hibernate: [Disabled in opencore config]
 
 # Stability:
 
-Once or twice hangs (kernel panic) in a week don't know why.
+Once or twice hangs (kernel panic) in a week don't know why. But still i'm using this hackintosh as my daily computer
 
